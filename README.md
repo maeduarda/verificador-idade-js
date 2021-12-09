@@ -1,7 +1,6 @@
-<h1 align="center">
-  Home
+
 <img alt="Home" title="Home" src="imagem-projeto/projeto.png">
-</h1>
+
 
 ## 💻 O Projeto
 
